@@ -1,4 +1,4 @@
-# R2LP
+# BOOG
 This is the official repository of paper "Boosting Graph Foundation Model from Structural Perspective".
 
 Setup
